@@ -7,7 +7,6 @@
   "repository": "https://github.com/velll/dollarsigns",
   "author": "Paul <paul@paulgoesdeep.com>",
   "license": "MIT",
-  "private": true,
   "devDependencies": {
     "typescript": "^3.7.3"
   }
