@@ -1,0 +1,13 @@
+{
+  "name": "dollarsigns",
+  "version": "0.1.0",
+  "description": "A nano library for typing less",
+  "main": "index.js",
+  "repository": "https://github.com/velll/dollarsigns",
+  "author": "Paul <paul@paulgoesdeep.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^3.7.3"
+  }
+}
