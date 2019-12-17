@@ -1,6 +1,6 @@
 {
   "name": "dollarsigns",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A nano library for typing less",
   "main": "dist/dollarsigns.js",
   "types": "dist/dollarsigns.d.ts",
