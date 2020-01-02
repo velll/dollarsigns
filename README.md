@@ -8,8 +8,6 @@ Almost nothing, really.
 - `$$` wraps around `document.querySelector`
 - `$$$` wraps around `document.querySelectorAll`
 
-There's also a `DOM` object if you want to include all three but still have relatively short calls.
-
 # Usage
 
 ```
@@ -17,9 +15,9 @@ import { $ } from "dollarsigns";
 $("message-body").textContent = "It's actually working";
 ```
 
-Or if you want all three in a neat object
+Or if you want all three
 ```
-import { DOM } from "dollarsigns";
+import * as DOM from "dollarsigns";
 
 DOM.$("message-body").textContent = "It's actually working";
 DOM.$$$(".menu a").forEach(el => (

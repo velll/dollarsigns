@@ -1,12 +1,22 @@
 {
   "name": "dollarsigns",
   "version": "0.1.1",
-  "description": "A nano library for typing less",
+  "description": "Dollar sign wrappers for getElementById and the like",
+  "keywords": [
+    "dollar",
+    "document",
+    "selector",
+    "wrapper"
+  ],
   "main": "dist/dollarsigns.js",
   "types": "dist/dollarsigns.d.ts",
   "repository": "https://github.com/velll/dollarsigns",
   "author": "Paul <paul@paulgoesdeep.com>",
   "license": "MIT",
+  "files": [
+    "dist/*",
+    "LICENSE"
+  ],
   "devDependencies": {
     "typescript": "^3.7.3"
   }
